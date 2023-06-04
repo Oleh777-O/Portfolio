@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-nav {
+    border: 2px solid orange;
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+}
+
+.link-header {
+    border: 2px solid orange;
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+.Good {
+    border: 5px double rgb(255, 115, 0);
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(135, 102, 255);
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
